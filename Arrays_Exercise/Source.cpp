@@ -33,8 +33,8 @@ int main()
 
 	//	system("pause");
 	//}
-	/*{*/
-		//#2
+	///*{*/
+	//	#2
 
 	//	int values[] = { 2, 6, 10, 14 };
 	//	std::cout << values[2];
@@ -62,38 +62,36 @@ int main()
 
 	//	system("pause");*/
 	//}
-	/*{*/
-		//#3
-		
-		/*int data[10];
-		for (int data = 10; data > 0; data--)
-			std::cout << data << std::endl;
-	}*/
-	{
-		//4
+	///*{*/
+	//	#3
+	//	
+	//	/*int data[10];
+	//	for (int data = 10; data > 0; data--)
+	//		std::cout << data << std::endl;
+	//}*/
+	//{
+	//	//4
 
-		std::cout << "Give me 5 numbers" << std::endl;
+	//	std::cout << "Give me 5 numbers" << std::endl;
 
-		int numb[5];
-		std::cin >> numb[0];
-		std::cin >> numb[1];
-		std::cin >> numb[2];
-		std::cin >> numb[3];
-		std::cin >> numb[4];
+	//	int numb[5];
+	//	std::cin >> numb[0];
+	//	std::cin >> numb[1];
+	//	std::cin >> numb[2];
+	//	std::cin >> numb[3];
+	//	std::cin >> numb[4];
 
-		for (int i = 4; i >= 0; i--)
-		{
-			std::cout << numb[i] << std::endl;
-		}
-	}
+	//	for (int i = 4; i >= 0; i--)
+	//	{
+	//		std::cout << numb[i] << std::endl;
+	//	}
+	//}
 	//{
 	//	//#5
 
 	//	std::cout << "Give me 10 numbers" << std::endl;
 	//	
 	//	int numb[10];
-	//	int largenum = numb[0];
-	//	int smallnum = numb[0];
 	//	int i = 0;
 
 	//	std::cin >> numb[0];
@@ -106,6 +104,9 @@ int main()
 	//	std::cin >> numb[7];
 	//	std::cin >> numb[8];
 	//	std::cin >> numb[9];
+
+	//	int largenum = numb[0];
+	//	int smallnum = numb[0];
 
 	//	for (i = 0; i < 9; i--);
 	//	{
@@ -193,18 +194,26 @@ int main()
 	//		std::cout << largenum << smallnum;
 	//	}
 	//}
-	//{
-	//	//#6
-	//}
-	//{
-	//	//#7
-	//}
-	//{
-	//	//#8
-	//}
-	//{
-	//	//#9
-	//}
+	{
+		//#6
+
+
+	}
+	{
+		//#7
+
+
+	}
+	{
+		//#8
+
+
+	}
+	{
+		//#9
+
+
+	}
 	system("pause");
 	return 0;
 }
