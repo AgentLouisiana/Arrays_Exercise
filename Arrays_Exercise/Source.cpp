@@ -198,8 +198,6 @@ int main()
 			}
 		}
 
-		std::cout << map << std::endl;
-
 		//#7
 		//#8
 		//#9
